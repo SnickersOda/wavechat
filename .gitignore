@@ -1,0 +1,13 @@
+node_modules/
+client/node_modules/
+client/dist/
+data/
+uploads/images/
+uploads/videos/
+uploads/audio/
+uploads/files/
+uploads/avatars/
+.env
+*.db
+*.log
+.DS_Store
